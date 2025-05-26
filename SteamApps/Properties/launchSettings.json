@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SteamApps (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "SteamApps (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
